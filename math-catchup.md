@@ -248,21 +248,21 @@ and VAEs/diffusion models and understand the math.
 
 ### Phase 1 — Backpropagation Foundation
 
-- [ ] **Calculus 1** — Unit 1: Limits and continuity (intuitive only)
-- [ ] **Calculus 1** — Unit 2: Derivatives: definition and basic rules
-- [ ] **Calculus 1** — Unit 3: Chain rule & advanced topics ⭐
-- [ ] **Multivariable Calculus** — Unit 2: Partial derivatives
-- [ ] **Multivariable Calculus** — Unit 2: Gradient vector
-- [ ] **Multivariable Calculus** — Unit 2: Multivariable chain rule ⭐
-- [ ] **Linear Algebra** — Unit 1: Vectors and spaces
+- [x] **Calculus 1** — Unit 1: Limits and continuity (intuitive only)
+- [x] **Calculus 1** — Unit 2: Derivatives: definition and basic rules
+- [x] **Calculus 1** — Unit 3: Chain rule & advanced topics ⭐
+- [x] **Multivariable Calculus** — Unit 2: Partial derivatives
+- [x] **Multivariable Calculus** — Unit 2: Gradient vector
+- [x] **Multivariable Calculus** — Unit 2: Multivariable chain rule ⭐
+- [x] **Linear Algebra** — Unit 1: Vectors and spaces
 - [ ] **Linear Algebra** — Unit 2: Matrix transformations
 
 > ✅ **Checkpoint:** You understand backpropagation.
 
 ### Phase 2 — Probability & Holistic ML
 
-- [ ] **Calculus 2** — Unit 1: Integrals review ⭐
-- [ ] **Calculus 2** — Unit 2: Integration techniques (substitution focus)
+- [x] **Calculus 2** — Unit 1: Integrals review ⭐
+- [x] **Calculus 2** — Unit 2: Integration techniques (substitution focus)
 - [ ] **Calculus 2** — Unit 4: Applications of integrals
 - [ ] **Statistics** — Probability & random variables
 - [ ] **Statistics** — Continuous random variables ⭐
@@ -274,7 +274,7 @@ and VAEs/diffusion models and understand the math.
 
 ### Optional / Advanced
 
-- [ ] **Calculus 2** — Unit 3: Differential equations (neural ODEs)
+- [x] **Calculus 2** — Unit 3: Differential equations (neural ODEs)
 - [ ] **Linear Algebra** — Unit 3: Eigenvalues & eigenvectors (PCA)
 - [ ] **Calculus 2** — Unit 6: Taylor series (optimization theory)
 
